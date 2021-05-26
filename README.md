@@ -6,7 +6,7 @@ What is Nerocoin?
 
 ----------------
 
-Nerocoin is a new dogecoin king coin based on litecoin
+Nerocoin is a new dogecoin kind coin based on litecoin
 
 License
 -------
