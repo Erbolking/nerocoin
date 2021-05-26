@@ -1,4 +1,9 @@
+![PhotoFunia-1622031863](https://user-images.githubusercontent.com/4039504/119659076-1d0b8780-be2e-11eb-809d-65a096a8270b.jpg)
+
+
 What is Nerocoin?
+
+
 ----------------
 
 Nerocoin is a new dogecoin king coin based on litecoin
